@@ -1,4 +1,94 @@
 # Fundamentals-of-Data-Analysis-Assessment-2019
 My project for Fundamentals of Data Analysis, Assessment 2019
 
+See here for the instructions: https://github.com/ianmcloughlin/project-2019-fundda/raw/master/project.pdf. 
+
+Resources and references which were used during the course of this project are listed in the references section at the end of this Readme file.
+
+
+About this Project    
+
+This project deals with the well known tips dataset and the Python packages Seaborn and Jupyter. For this project I import the tips dataset and use the Python packages Seaborn and Jupyter to analyse the dataset in an attempt to to explain the details contained within the dataset. I also analyse the relationships between some of the variables.  Finally I have included a section on machine learning and attempting to calculate the expected tip paid by customers when inputting certain paramiters.
+
+How to download this repository
+Go to GitHub.
+Go to my repository: https://github.com/bexiturley/Fundamentals-of-Data-Analysis-Assessment-2019
+Click the clone/download button.
+Save the repository locally to a folder location on your machine.
+Navigate to local folder location on the command line in order to run the program.    
+
+How to view jupyter notebook 
+On the command line, navigate to the folder location where the repository has been downloaded and saved to using the cd change directory command.
+Type jupyter notebook on the command line and press return.  Jupyter is a python package and comes by default installed with Anaconda. If Anaconda is not already installed it will have to be done so separately.    
+Jupyter notebook will open in your web browser.  Google chrome is better than Microsoft edge to use for this. 
+Open the .ipynb notebook in the browser and the notebook containing the code and comments will be displayed.
+In Jupyter notebook go to Kernal, restart and run all.  To execute the code in a single cell; hold down the shift key, press return and the command will run with the output displayed in the following cell.
+To toggle between edit and read mode press the ESC key.
+Save changes, if any, before closing. Shut down the web browser, return to the command line. Ctrl + C on the command line will terminate the session.
+
+
+Plan to complete the assignment:
+
+Create git repository, send link to lecturer and make it available online.  Create jupyter notebook within the repository.    
+Import/download dataset.
+Begin descriptive analysis via summary of statistics and plots.  Check to see if any data is corrupt/missing.
+
+Reacquaint myself with regression and what it means.
+Create the plots.
+Describe the output of the plots and see if there is a relationship between the total bill and tip amount.
+
+Analyse different variables within the data.  Create the code and comment on them.
+What does the data tell me.  
+Is there any unusual observations?
+Can I predict a tip amount if I input my own paramaters.
+What did I learn. Is this a good dataset. Any shortcomings.
+
+In addition to the above, keep detailed list of all references I looked up or read. 
+
+
+
 *by Rebecca Turley*
+
+
+References and additional reading material
+
+https://www.youtube.com/watch?v=eEIr70i8vbs
+https://dfrieds.com/data-analysis/groupby-python-pandas
+https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
+https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
+https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv where I imported the tips.csv file and called it df instead of the other variable one I used.
+https://amitkushwaha.co.in/data-visualization-part-1.html
+https://amitkushwaha.co.in/data-visualization-part-2.html
+
+Facetplot
+https://blog.insightdatascience.com/data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6
+KDE and violin plot using seaborn
+http://benalexkeen.com/kde-and-violin-plots-using-seaborn/
+
+FacetGrid
+https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm
+
+Countplot
+https://www.tutorialspoint.com/seaborn/seaborn_quick_guide.htm
+
+Pointplot
+https://seaborn.pydata.org/generated/seaborn.pointplot.html
+
+Linear regression information
+https://www.geeksforgeeks.org/linear-regression-python-implementation/
+
+Data Frame Info
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.info.html
+
+Machine Learning Model
+https://devarea.com/python-machine-learning-example-linear-regression/#.XdMC4uj7SUk
+
+Background on dataset
+https://datasciencechalktalk.com/2019/11/03/interactive-analytics-and-predictions-on-restaurant-tips/
+
+seaborn charts
+https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/
+
+Tips percent
+https://stackoverflow.com/questions/39439692/jupyter-qtpython-errors
+https://books.google.ie/books?id=BCc3DwAAQBAJ&pg=PA304&lpg=PA304&dq=%27tip_pct%27+jupyter+tips&source=bl&ots=bAqG76l0a3&sig=ACfU3U1RoDT_OpCaSUfO9ei_TIkC9s-qdQ&hl=en&sa=X&ved=2ahUKEwiToZ_X4vnlAhUoURUIHeCFD0oQ6AEwCnoECAoQAQ#v=onepage&q='tip_pct'%20jupyter%20tips&f=false
