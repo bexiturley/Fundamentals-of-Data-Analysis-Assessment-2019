@@ -8,7 +8,7 @@ Resources and references which were used during the course of this project are l
 
 About this Project    
 
-This project deals with the well known tips dataset and the Python packages Seaborn and Jupyter. For this project I import the tips dataset and use the Python packages Seaborn and Jupyter to analyse the dataset in an attempt to to explain the details contained within the dataset. I also analyse the relationships between some of the variables.  Finally I have included a section on machine learning and attempting to calculate the expected tip paid by customers when inputting certain paramiters.    
+This project deals with the well known tips dataset and the Python packages Seaborn and Jupyter. For this project I import the tips dataset and use the Python packages Seaborn and Jupyter to analyse the dataset in an attempt to to explain the details contained within the dataset. I also analyse the relationships between some of the variables.  Finally I have included a section on machine learning and attempting to calculate the expected tip paid by customers when inputting certain parameters.    
 
 How to download this repository    
 Go to GitHub.    
@@ -22,7 +22,7 @@ On the command line, navigate to the folder location where the repository has be
 Type jupyter notebook on the command line and press return.  Jupyter is a python package and comes by default installed with Anaconda. If Anaconda is not already installed it will have to be done so separately.    
 Jupyter notebook will open in your web browser.  Google chrome is better than Microsoft edge to use for this.     
 Open the .ipynb notebook in the browser and the notebook containing the code and comments will be displayed.    
-In Jupyter notebook go to Kernal, restart and run all.  To execute the code in a single cell; hold down the shift key, press return and the command will run with the output displayed in the following cell.    
+In Jupyter notebook go to Kernel, restart and run all.  To execute the code in a single cell; hold down the shift key, press return and the command will run with the output displayed in the following cell.    
 To toggle between edit and read mode press the ESC key.    
 Save changes, if any, before closing. Shut down the web browser, return to the command line. Ctrl + C on the command line will terminate the session.       
     
@@ -40,12 +40,32 @@ Describe the output of the plots and see if there is a relationship between the 
 Analyse different variables within the data.  Create the code and comment on them.    
 What does the data tell me.      
 Is there any unusual observations?    
-Can I predict a tip amount if I input my own paramaters.    
+Can I predict a tip amount if I input my own parameters.    
 What did I learn. Is this a good dataset. Any shortcomings.    
      
 In addition to the above, keep detailed list of all references I looked up or read.     
     
     
+Things of note.    
+I have used graph and plot interchangeably.  They mean very different things usually but for this I ignored that.    
+    
+You can enter an unlimited number of arguments in a cell but only the last command will be returned.  Either put each one in a new cell or put a print command after each one.    
+    
+Markdown was used for comments and code for scripting. There is a white box near the top of the page which tells you which is which.
+
+If I close the notebook then go back in and enter a new argument it may not run  if it is dependant on previous ones also executing first.  I can then go to CELL and RUN ALL or KERNEL and RESTART & RUN ALL.  RESTART & CLEAR OUTPUT starts the code from the beginning and the numbering on the left hand side will go in sequence.
+
+It is very important to save as you go along but if the worst happens and the notebook wont load for whatever reason there are checkpoints when you save it.  You can rebuild from there.
+
+CTRL+Z is undo. Very handy.  Other shortcuts are here https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/  It is very useful to print out and keep to hand.
+
+
+
+
+
+
+
+
     
 *by Rebecca Turley*    
     
@@ -133,3 +153,6 @@ https://books.google.ie/books?id=BCc3DwAAQBAJ&pg=PA304&lpg=PA304&dq=%27tip_pct%2
     
 Seaborn regplot    
 https://seaborn.pydata.org/generated/seaborn.regplot.html    
+    
+Jupyter shortcuts
+https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
