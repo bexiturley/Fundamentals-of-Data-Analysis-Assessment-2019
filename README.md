@@ -99,6 +99,7 @@ Seaborn
 https://towardsdatascience.com/    analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e    
 https://analyticsindiamag.com/    a-simple-introduction-to-pythons-seaborn-library/    
 https://towardsdatascience.com/matplotlib-seaborn-basics-2bd7b66dbee2    
+https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/    
     
 Jointplot    
 https://python-graph-gallery.com/82-marginal-plot-with-seaborn/    
@@ -143,6 +144,8 @@ https://devarea.com/python-machine-learning-example-linear-regression/    #.XdMC
     
 Background on dataset    
 https://datasciencechalktalk.com/2019/11/03/    interactive-analytics-and-predictions-on-restaurant-tips/    
+http://www.ggobi.org/book/chap-data.pdf    
+
     
 Seaborn charts    
 https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/    
