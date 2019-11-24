@@ -156,3 +156,6 @@ https://seaborn.pydata.org/generated/seaborn.regplot.html
     
 Jupyter shortcuts
 https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
+
+Boolean Selects
+https://thomas-cokelaer.info/tutorials/python/boolean.html
