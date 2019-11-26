@@ -73,93 +73,93 @@ CTRL+Z is undo. Very handy.  Other shortcuts are here https://www.cheatography.c
     
 **References and additional reading material**     
     
-How to import csv files:    
+*How to import csv files:*    
 https://www.youtube.com/watch?v=eEIr70i8vbs    
     
-https://dfrieds.com/data-analysis/groupby-python-pandas   
+https://dfrieds.com/data-analysis/groupby-python-pandas 
 Contains a mistake. States that the sex column is in reference to the server. In other documents I viewed it stated the sex refers to the person paying the bill.     
     
-https://towardsdatascience.com/    10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b    
+https://towardsdatascience.com/ 10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b    
      
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv     
-Where I imported the tips.csv file from and called it df instead of the other variable one I used.    
+*Where I imported the tips.csv file from and called it df instead of the other variable one I used.*    
      
-Data Visualization    
+*Data Visualization*    
 https://amitkushwaha.co.in/data-visualization-part-1.html    
 https://amitkushwaha.co.in/data-visualization-part-2.html    
 https://blog.insightdatascience.com/    data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6    
 https://seaborn.pydata.org/tutorial/distributions.html    
     
-Histograms in Python    
+*Histograms in Python*    
 https://plot.ly/python/histograms/    
     
-Building structures multi-plot grids    
+*Building structures multi-plot grids*    
 https://seaborn.pydata.org/tutorial/axis_grids.html    
     
-Seaborn    
+*Seaborn*    
 https://towardsdatascience.com/    analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e    
 https://analyticsindiamag.com/    a-simple-introduction-to-pythons-seaborn-library/    
 https://towardsdatascience.com/matplotlib-seaborn-basics-2bd7b66dbee2    
 https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/    
     
-Jointplot    
+*Jointplot*    
 https://python-graph-gallery.com/82-marginal-plot-with-seaborn/    
     
-Swarmplot    
+*Swarmplot*    
 https://stackoverflow.com/questions/44615759/      how-can-box-plot-be-overlaid-on-top-of-swarm-plot-in-seaborn      
     
-Facetplot    
+*Facetplot*    
 https://blog.insightdatascience.com/    data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6    
     
-KDE and violin plot using seaborn    
+*KDE and Violin Plot using Seaborn*    
 http://benalexkeen.com/kde-and-violin-plots-using-seaborn/    
 https://seaborn.pydata.org/generated/seaborn.kdeplot.html    
 https://blog.bioturing.com/2018/05/16/      5-reasons-you-should-use-a-violin-graph/    
 https://seaborn.pydata.org/generated/seaborn.violinplot.html    
     
-FacetGrid    
+*FacetGrid*    
 https://www.tutorialspoint.com/seaborn/seaborn_facet_grid.htm    
 https://seaborn.pydata.org/generated/seaborn.FacetGrid.html    
     
-Countplot    
+*Countplot*    
 https://www.tutorialspoint.com/seaborn/seaborn_quick_guide.htm    
     
-Pointplot    
+*Pointplot*    
 https://seaborn.pydata.org/generated/seaborn.pointplot.html    
      
-Linear regression information    
+*Linear Regression Information*    
 https://www.geeksforgeeks.org/linear-regression-python-implementation/    
 https://seaborn.pydata.org/tutorial/regression.html    
     
-Seaborn regression plots    
+*Seaborn regression Plots*    
 https://www.geeksforgeeks.org/seaborn-regression-plots/    
     
-Seaborn Categorical plots    
+*Seaborn Categorical Plots*    
 https://www.geeksforgeeks.org/seaborn-categorical-plots/    
      
-Data Frame Info    
+*Data Frame Info*    
 https://pandas.pydata.org/pandas-docs/stable/reference/api/    pandas.DataFrame.info.html    
     
-Machine Learning Model    
+*Machine Learning Model*    
 https://devarea.com/python-machine-learning-example-linear-regression/    #.XdMC4uj7SUk    
     
-Background on dataset    
+*Background on Dataset*    
 https://datasciencechalktalk.com/2019/11/03/    interactive-analytics-and-predictions-on-restaurant-tips/    
 http://www.ggobi.org/book/chap-data.pdf    
 
     
-Seaborn charts    
+*Seaborn Charts*    
 https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/    
     
-Tips percent    
+*Tips Percent*    
 https://stackoverflow.com/questions/39439692/jupyter-qtpython-errors    
 https://books.google.ie/books?id=BCc3DwAAQBAJ&pg=PA304&lpg=PA304&dq=%27tip_pct%27+jupyter+tips&source=bl&ots=bAqG76l0a3&sig=ACfU3U1RoDT_OpCaSUfO9ei_TIkC9s-qdQ&hl=en&sa=X&ved=2ahUKEwiToZ_X4vnlAhUoURUIHeCFD0oQ6AEwCnoECAoQAQ#v=onepage&q='tip_pct'%20jupyter%20tips&f=false    
     
-Seaborn regplot    
+*Seaborn Regplot*    
 https://seaborn.pydata.org/generated/seaborn.regplot.html    
     
-Jupyter shortcuts
+*Jupyter Shortcuts*
 https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
 
-Boolean Selects
+*Boolean Selects*
 https://thomas-cokelaer.info/tutorials/python/boolean.html
