@@ -6,18 +6,17 @@ See here for the instructions: https://github.com/ianmcloughlin/project-2019-fun
 Resources and references which were used during the course of this project are listed in the references section at the end of this Readme file.
 
 
-About this Project    
-
+**About this Project**    
 This project deals with the well known tips dataset and the Python packages Seaborn and Jupyter. For this project I import the tips dataset and use the Python packages Seaborn and Jupyter to analyse the dataset in an attempt to to explain the details contained within the dataset. I also analyse the relationships between some of the variables.  Finally I have included a section on machine learning and attempting to calculate the expected tip paid by customers when inputting certain parameters.    
 
-How to download this repository    
+**How to download this repository**    
 Go to GitHub.    
 Go to my repository: https://github.com/bexiturley/Fundamentals-of-Data-Analysis-Assessment-2019    
 Click the clone/download button.    
 Save the repository locally to a folder location on your machine.    
 Navigate to local folder location on the command line in order to run the program.    
 
-How to view jupyter notebook    
+**How to view jupyter notebook**    
 On the command line, navigate to the folder location where the repository has been downloaded and saved to using the cd change directory command.    
 Type jupyter notebook on the command line and press return.  Jupyter is a python package and comes by default installed with Anaconda. If Anaconda is not already installed it will have to be done so separately.    
 Jupyter notebook will open in your web browser.  Google chrome is better than Microsoft edge to use for this.     
@@ -27,27 +26,29 @@ To toggle between edit and read mode press the ESC key.
 Save changes, if any, before closing. Shut down the web browser, return to the command line. Ctrl + C on the command line will terminate the session.       
     
     
-Plan to complete the assignment:
+**Plan to complete the assignment:**
 
-Create git repository, send link to lecturer and make it available online.   Create jupyter notebook within the repository.    
-Import/download dataset.    
-Begin descriptive analysis via summary of statistics and plots.  Check to see if any data is corrupt/missing.    
+* Create git repository, send link to lecturer and make it available online.   
+* Create jupyter notebook within the repository.    
+* Import/download dataset.    
+* Begin descriptive analysis via summary of statistics and plots.  
+* Check to see if any data is corrupt/missing.    
     
-Reacquaint myself with regression and what it means.    
-Create the plots.    
-Describe the output of the plots and see if there is a relationship between the total bill and tip amount.    
+* Reacquaint myself with regression and what it means.    
+* Create the plots.    
+* Describe the output of the plots and see if there is a relationship between the total bill and tip amount.    
     
-Analyse different variables within the data.  Create the code and comment on them.    
-What does the data tell me.      
-Is there any unusual observations?    
-Can I predict a tip amount if I input my own parameters.    
-What did I learn. Is this a good dataset. Any shortcomings.    
+* Analyse different variables within the data.  Create the code and comment on them.    
+* What does the data tell me.      
+* Is there any unusual observations?    
+* Can I predict a tip amount if I input my own parameters.    
+* What did I learn. Is this a good dataset. Any shortcomings.    
      
-In addition to the above, keep detailed list of all references I looked up or read.     
+* In addition to the above, keep detailed list of all references I looked up or read.     
     
     
-Things of note.    
-I have used graph and plot interchangeably.  They mean very different things usually but for this I ignored that.    
+**Things of note.**    
+I have used graph and plot interchangeably.  They mean very different things usually but for this I ignored that convention.    
     
 You can enter an unlimited number of arguments in a cell but only the last command will be returned.  Either put each one in a new cell or put a print command after each one.    
     
@@ -70,7 +71,7 @@ CTRL+Z is undo. Very handy.  Other shortcuts are here https://www.cheatography.c
 *by Rebecca Turley*    
     
     
-References and additional reading material     
+**References and additional reading material**     
     
 How to import csv files:    
 https://www.youtube.com/watch?v=eEIr70i8vbs    
