@@ -131,14 +131,14 @@ https://seaborn.pydata.org/generated/seaborn.pointplot.html
 https://www.geeksforgeeks.org/linear-regression-python-implementation/    
 https://seaborn.pydata.org/tutorial/regression.html    
     
-*Seaborn regression Plots*    
+*Seaborn Regression Plots*    
 https://www.geeksforgeeks.org/seaborn-regression-plots/    
     
 *Seaborn Categorical Plots*    
 https://www.geeksforgeeks.org/seaborn-categorical-plots/    
      
 *Data Frame Info*    
-https://pandas.pydata.org/pandas-docs/stable/reference/api/    pandas.DataFrame.info.html    
+https://pandas.pydata.org/pandas-docs/stable/reference/api/ pandas.DataFrame.info.html    
     
 *Machine Learning Model*    
 https://devarea.com/python-machine-learning-example-linear-regression/    #.XdMC4uj7SUk    
@@ -158,8 +158,8 @@ https://books.google.ie/books?id=BCc3DwAAQBAJ&pg=PA304&lpg=PA304&dq=%27tip_pct%2
 *Seaborn Regplot*    
 https://seaborn.pydata.org/generated/seaborn.regplot.html    
     
-*Jupyter Shortcuts*
+*Jupyter Shortcuts*    
 https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
 
-*Boolean Selects*
+*Boolean Selects*    
 https://thomas-cokelaer.info/tutorials/python/boolean.html
