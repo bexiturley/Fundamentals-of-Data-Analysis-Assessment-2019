@@ -163,3 +163,7 @@ https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
 
 *Boolean Selects*    
 https://thomas-cokelaer.info/tutorials/python/boolean.html
+
+*RMSD*     
+https://www.codeastar.com/regression-model-rmsd/    
+https://en.wikipedia.org/wiki/Root-mean-square_deviation
